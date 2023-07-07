@@ -12,7 +12,7 @@ import {FaBloggerB, FaPodcast} from 'react-icons/fa';
 import Image from "next/image";
 import logo from "../../public/images/logo.png"
 import Chatbox from "@/components/Dashboard_views/private_chat/Chat";
-import Charts from "@/components/Dashboard_views/Charts";
+import Charts from "@/components/Dashboard_views/profile/Charts";
 import Podcast from "@/components/Dashboard_views/Podcast";
 import Newsletter from "@/components/Dashboard_views/blog/Blog";
 import Community from "@/components/Dashboard_views/community/Community";
